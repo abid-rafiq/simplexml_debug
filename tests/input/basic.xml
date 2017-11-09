@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<movies>
+<movies test="true">
     <movie>
         <title>PHP: Behind the Parser</title>
         <characters>

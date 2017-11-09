@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<movies xmlns="https://github.com/IMSoP/simplexml_debug">
+<movies xmlns="https://github.com/IMSoP/simplexml_debug" test="true">
     <movie>
         <title>PHP: Behind the Parser</title>
         <characters>

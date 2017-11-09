@@ -1,5 +1,6 @@
 SimpleXML object (1 item)
 [0] // <movies>
+	['test']
 	->children('https://github.com/IMSoP/simplexml_debug')
 		->movie[0]
 			->title[0]

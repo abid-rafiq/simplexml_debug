@@ -10,6 +10,8 @@ SimpleXML object (1 item)
 		Content in Default Namespace
 			Namespace URI: 'https://github.com/IMSoP/simplexml_debug'
 			Children: 1 - 1 'movie'
-			Attributes: 0
+
+		Content in Null Namespace
+			Attributes: 1 - 'test'
 	}
 ]
